@@ -1,0 +1,24 @@
+.main {
+  width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.bg {
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.hot {
+  background-image: url("../assets/hot.jpg");
+}
+
+.cold {
+  background-image: url("../assets/cold.jpg");
+}
